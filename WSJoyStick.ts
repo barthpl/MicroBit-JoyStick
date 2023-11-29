@@ -35,10 +35,10 @@ let JoyStick_X = AnalogPin.P1;
 let JoyStick_Y = AnalogPin.P2;
 let KEY_A = DigitalPin.P5;
 let KEY_B = DigitalPin.P11;
-let KEY_C = DigitalPin.P15;
+let KEY_C = DigitalPin.P13;
 let KEY_D = DigitalPin.P14;
-let KEY_E = DigitalPin.P13;
-let KEY_F = DigitalPin.P12;
+let KEY_E = DigitalPin.P15;
+let KEY_F = DigitalPin.P16;
 
 /**
  * Operational remote JoyStick function
